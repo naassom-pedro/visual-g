@@ -1,0 +1,130 @@
+DESAFIOS PROPOSTOS
+
+1 - Escreva um algoritmo para ler um valor e escrever o seu antecessor.
+
+2 - Escreva um algoritmo para ler o seu nome e sua idade e escreva como saída:
+Bem-vindo!! “nome digitado”, você tem “idade digitada”.
+
+3 - Ler 2 números, efetuar as 4 operações matemática (adição, subtração,
+multiplicação e divisão), mostrar o resultado de cada operação.
+
+4 - Faça um algoritmo que leia um valor de um produto e mostre um novo valor
+deste produto atualizado, para o novo valor deverá ser concedido o desconto de
+25%.
+
+5 - Fazer um algoritmo que leia o nome de uma pessoa o ano de nascimento e
+o ano atual, e mostre quantos anos essa pessoa têm.
+
+6 - O custo de um carro novo ao consumidor é a soma do custo de fábrica com
+a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica).
+Supondo que o percentual do distribuidor seja de 28% e os impostos de 45%,
+escrever um algoritmo para ler o custo de fábrica de um carro, calcular e escrever
+o custo final ao consumidor.
+
+7 - Faça um programa que leia o nome de um piloto, uma distância percorrida
+em km e o tempo que o piloto levou para percorrê-la (em horas). O programa
+deve calcular a velocidade média em km/h, e exibir a seguinte frase:
+"A velocidade média de ["Nome do piloto"] foi [resposta da velocidade media] km/h." que é sua velocidade média.
+
+8 - Considerando que para um consórcio, sabe-se o número total de prestações,
+a quantidade de prestações pagas e o valor atual da prestação, escreva um
+algoritmo que determine o total pago pelo consorciado e o saldo devedor.
+
+9 - Duas variáveis (A e B) possuem valores distintos (A:=5 e B:= 10), crie um
+algoritmo que armazene esses dois valores nessas duas variáveis, e efetue atroca
+dos valores de forma que a variável A passe a possuir o valor da variável
+B e que a variável B passe a possuir o valor da variável A. Por fim, apresentar
+os valores trocado.
+
+10 - Uma Empresa de vendas de softwares paga a seu vendedor um fixo de R$
+1200,00 por mês, mais uma comissão de 15% pelo seu valor de vendas no mês.
+Faça um algoritmo que leia o valor da venda e determine o salário total do
+funcionário. Mostre as informações que você achar necessário.
+
+11 - Faça um algoritmo que mostre o novo preço de um produto sabendo-se que
+este terá um desconto de 15%, mostrando também a classificação do produto
+segundo o as informações abaixo.
+Novo preço: de 500 para cima deverá informar que está CARO.
+Abaixo de 500 deverá informar aque está BARATO.
+
+12 - Uma empresa decide dar um aumento de 30% aos funcionários com salários
+inferiores a R$ 500,00. Faça um algoritmo que receba o salário do funcionário e
+mostre o valor do salário reajustado ou uma mensagem caso o funcionário não
+tenha direito ao aumento.
+
+13 - Faça um algoritmo que receba o valor do salário de um funcionário, o número
+de dependentes deste funcionário e a quantidade de horas extras trabalhadas.
+Calcule e mostre o salário bruto a receber do funcionário seguindo as regras
+abaixo.
+• para cada dependente acrescentar 120 reais;
+• para cada hora extra trabalhada calcular o valor da hora trabalhada acrescida
+de 50%, para achar o valor da hora normal o salário deve ser dividido por 220
+que é total mensal de horas trabalhadas por um trabalhador.
+• o salário bruto é igual ao salário do mês mais o valor dos dependentes mais o
+valor das horas extras
+
+14 - Uma agência bancária possui dois tipos de investimentos, conforme o
+quadro abaixo. Faça um algoritmo que receba o tipo do investimento e o valor
+do investimento, calcule e mostre o valor corrigido de acordo com o tipo de
+investimento.
+Tipo - 1 Poupança - 5%Tipo - 2 Fundo de renda fixa - 10%.
+
+15 - Faça um algoritmo que receba o valor do salário de uma pessoa e o valor
+de um financiamento pretendido. Caso o financiamento seja menor ou igual a 5
+vezes o salário da pessoa, o algoritmo deverá escrever "Financiamento aprovado" se não "Financiamento reprovado".
+
+16-Ler um valor N e mostrar todos os números inteiros de 1 até N. 
+Usando o laço de repetição PARA.
+
+17-Ler uma variável de número inteiro e mostrar a tabuada desse 
+número. Usando o laço de repetição PARA.
+
+18-Faça um algoritmo que gere a seguinte série: 10, 20, 30, 40, 
+..... 980, 990, 1000. Usando o laço de repetição PARA.
+
+19-Ler a nota de 5 alunos, calcular a média e mostrar essa 
+média. Usando o laço de repetição PARA.
+
+20-Mostre os 10 primeiros números pares. Usando o laço de 
+repetição ENQUANTO.
+
+21-Escreva um algoritmo para ler 2 valores e se o segundo valor 
+informado for ZERO, deve ser lido um novo valor, ou seja, para o 
+segundo valor não pode ser aceito o valor zero e escreva o 
+resultado da divisão do primeiro valor lido pelo segundo valor 
+lido. (Utilizar a estrutura REPITA).
+
+22-Faça um programa que leia um número e mostre o seu fatorial.
+
+23 - Faça um programa que tenha um menu com as seguintes opções:
+- sair do programa
+- calcular fatorial
+- calcular imc
+Caso a opção não seja nenhuma das disponiveis, o programa deve informar que a opção não é válida.
+O programa só deve ser finalizado caso o usuário escolha sair.
+Dica: utilize "procedimentos" para reaproveitar códigos.
+
+24 - Ler 10 valores e escrever quantos desses valores lidos estão no intervalo [10,20] 
+(incluindo os valores 10 e 20 no intervalo) e quantos deles estão fora deste intervalo.
+
+25 - screva um algoritmo para ler 10 números. Todos os números lidos com valor inferior a 40 devem
+ser somados. Escreva o valor final da soma efetuada.
+
+26 - Uma loja está levantando o valor total de todas as mercadorias em estoque. Escreva um algoritmo
+que permita a entrada das seguintes informações: 
+a) o número total de mercadorias no estoque; 
+b) o valor de cada mercadoria. 
+Ao final imprimir o valor total em estoque e a média de valor das mercadorias.
+
+27 - Faça um algoritmo em que o usuário digitando o nome, nota 1,
+nota 2, nota 3 e nota 4 de 3 alunos. Determine e imprima o nome
+e a média de cada aluno, e a média aritmética final de todos os
+alunos (DA TURMA).
+
+28 - Faça um algoritmo que imprima os múltiplos de 5 em ordem
+decrescente de 1000 até 5
+
+29 - Escreva um algoritmo que, seja similar a "mega-sena", pensando em duas partes: primeira, 
+selecione 6 números de 01 a 60, podendo ser aleatório ou não, fica a critério de vocês.
+segunda parte: o sorteio, sera sorteado 6 números entre 01 e 60.
+
